@@ -1,0 +1,3 @@
+class RandomUser{
+    constructor(){}
+}
